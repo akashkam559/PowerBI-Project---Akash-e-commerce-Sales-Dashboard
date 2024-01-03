@@ -56,17 +56,17 @@ Demo Published/Deplyed Dashboard Link -> https://app.powerbi.com/groups/me/repor
 
 
 # PROJECT STEPS & ETL ON DATASET
-• Undertand req & take out important information
+1. Undertand req & take out important information
 
-• Consider & Find (kpi/metrices) before making dashboard 
+2. Consider & Find (kpi/metrices) before making dashboard 
 
-• Get data sources - csv format.
+3. Get data sources - csv format.
 
-• ETL on Dataset - Data Modelling (relationships) , Data View (ETL step) , Report View (creare visual dashboard)
+4.1. ETL on Dataset - Data Modelling (relationships) , Data View (ETL step) , Report View (creare visual dashboard)
 
-• Data Modelling (relationships)
+4.2. Data Modelling (relationships)
 
-• Data View - Power Query Editor 
+4.3. Data View - Power Query Editor 
 
       (E) - Extract/Collect/Import data sources
   
@@ -76,7 +76,7 @@ Demo Published/Deplyed Dashboard Link -> https://app.powerbi.com/groups/me/repor
   
       (T) - DAX Query, DAX Data Analysis, Calculation & measure
   
-• Report View 
+4.4. Report View 
 
       (L) - load & create & format visual charts/dashboard 
   
@@ -98,17 +98,30 @@ Demo Published/Deplyed Dashboard Link -> https://app.powerbi.com/groups/me/repor
 • HOw to approch probelem & perfomer ETL steps on datasets 
 
 • Created interactive dashboard to 
+
 • Used complex parameters to drill down in worksheet and customization using filters and slicers 
+
 • Created connections, join new tables, calculations to manipulate data and enable user driven parameters for visualizations
+
 • Used different types of customized visualization (bar chart, pie chart, donut chart, clustered bar chart, scatter chart, line chart, area chart, map, slicers, etc)
 
+
+
 • Found KPI's, metrices, key-influencers, trends & patterns
+
 	• Total Amount = 438K, Total Profit= 37K,  Total Quanity = 5615, Tota AOV = 120K
+ 
 	• Top performing States is maharasthra with maximum sales & lowest sales in gujrat
+ 
 	• Top performing customer is Harivansh who bought maximum prducts & contributes to sales & lowest is Shiva
+ 
 	• Quantity vs category, maximum Quantities are come under Clothing(62%), & minimum by Furniture(16%)
+ 
 	• Quantity vs Payment Mode, maximum Quantiies booked using COD(44%) & minimum by EMI(10%)
+ 
 	• Profit vs Month, maximum profit happened in October-November due to festival season sale & discount rates on products & minimum in May-July
+ 
+ 
 
 • Contributed to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
 • Incorporated data analysis techniques, specializing in time series analysis, to deliver valuable insights, and interactive dashboard creation, driving business success.
