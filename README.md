@@ -56,22 +56,19 @@ Demo Published/Deplyed Dashboard Link -> https://app.powerbi.com/groups/me/repor
 
 
 # PROJECT STEPS & ETL ON DATASET
-1. Undertand req & take out important information
-2. Consider & Find (kpi/metrices) before making dashboard 
-3. Get data sources - csv format.
-
-4.1 ETL on Dataset - Data Modelling (relationships) , Data View (ETL step) , Report View (creare visual dashboard)
-
-4.2 Data Modelling (relationships)
-
-4.3 Data View - Power Query Editor 
-	(E) - Extract/Collect/Import data sources
-	(T) - Data Cleaning - handle/remove duplicates, missing vlaues(spaces/empty/blank), Replace values(null/#NA/error/valuesnull)
-	(T) - Transform/Manipulate/Processing dataset - Transformation using power query editor
-	(T) - DAX Query, DAX Data Analysis, Calculation & measure 
-4.4 Report View 
-	* (L) - load & create & format visual charts/dashboard 
-	* (L) - create & format visual dashboard - Charts Maps, Filter/Flicers,Create New Columns and Tables)
+• Undertand req & take out important information
+• Consider & Find (kpi/metrices) before making dashboard 
+• Get data sources - csv format.
+• ETL on Dataset - Data Modelling (relationships) , Data View (ETL step) , Report View (creare visual dashboard)
+• Data Modelling (relationships)
+• Data View - Power Query Editor 
+  (E) - Extract/Collect/Import data sources
+  (T) - Data Cleaning - handle/remove duplicates, missing vlaues(spaces/empty/blank), Replace values(null/#NA/error/valuesnull
+  (T) - Transform/Manipulate/Processing dataset - Transformation using power query 
+  (T) - DAX Query, DAX Data Analysis, Calculation & measure
+• Report View 
+  (L) - load & create & format visual charts/dashboard 
+  (L) - create & format visual dashboard - Charts Maps, Filter/Flicers,Create New Columns and Tables)
 
 
 # PROJECT DESCRIPTION & INSIGHTS FROM DASHBOARD TO HELP BUSINESS
