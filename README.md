@@ -55,12 +55,15 @@ Demo Published/Deplyed Dashboard Link -> https://app.powerbi.com/groups/me/repor
   • power query editor -> transform data
 
 
-# ROJECT STEPS & ETL ON DATASET
+# PROJECT STEPS & ETL ON DATASET
 1. Undertand req & take out important information
 2. Consider & Find (kpi/metrices) before making dashboard 
-3. Get data sources - csv format
+3. Get data sources - csv format.
+
 4.1 ETL on Dataset - Data Modelling (relationships) , Data View (ETL step) , Report View (creare visual dashboard)
+
 4.2 Data Modelling (relationships)
+
 4.3 Data View - Power Query Editor 
 	(E) - Extract/Collect/Import data sources
 	(T) - Data Cleaning - handle/remove duplicates, missing vlaues(spaces/empty/blank), Replace values(null/#NA/error/valuesnull)
