@@ -62,18 +62,14 @@ Demo Published/Deplyed Dashboard Link -> https://app.powerbi.com/groups/me/repor
 
 3. Get data sources - csv format
 
-   4.1. ETL on Dataset - Data Modelling (relationships) , Data View (ETL step) , Report View (creare visual dashboard)
+4.1. ETL on Dataset - Data Modelling (relationships) , Data View (ETL step) , Report View (creare visual dashboard)
 
-   4.2. Data Modelling (relationships)
+4.2. Data Modelling (relationships)
 
-   4.3. Data View - Power Query Editor 
-
+4.3. Data View - Power Query Editor 
       (E) - Extract/Collect/Import data sources
-  
       (T) - Data Cleaning - handle/remove duplicates, missing vlaues(spaces/empty/blank), Replace values(null/#NA/error/valuesnull
-  
       (T) - Transform/Manipulate/Processing dataset - Transformation using power query 
-  
       (T) - DAX Query, DAX Data Analysis, Calculation & measure
   
   4.4. Report View 
