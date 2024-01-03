@@ -9,7 +9,7 @@ Demo Published/Deplyed Dashboard Link -> https://app.powerbi.com/groups/me/repor
 ![Akash e-commerce Sales Dashboard](https://github.com/akashkam559/PowerBI-Project---Akash-e-commerce-Sales-Dashboard/assets/41515202/c128338a-4e35-41fd-828a-7ffe36d77862)
 
 
-Project Index
+# Project Index
 ----------------------
 • Project- key points
 • Project Overview
