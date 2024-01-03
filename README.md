@@ -32,12 +32,18 @@ Demo Published/Deplyed Dashboard Link -> https://app.powerbi.com/groups/me/repor
 • Sharing Insights
 
 
+
+
 # PROJECT OVERVIEW
 • To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
 
 
+
+
 # PROJECT OBJECTIVE
 • Owner of Madhav Store wants us to help them create a dashboard to track and analyze their online sales across India
+
+
 
 
 # PROJECT ECOCSYSTEM
@@ -53,6 +59,8 @@ Demo Published/Deplyed Dashboard Link -> https://app.powerbi.com/groups/me/repor
 - power query editor - after loading daatset -> load (or) transform -> For transaform -> use power query editor 
   • after loading daatset -> load (or) transform -> For transaform -> use power query editor 
   • power query editor -> transform data
+
+
 
 
 # PROJECT STEPS & ETL ON DATASET
@@ -80,14 +88,23 @@ Demo Published/Deplyed Dashboard Link -> https://app.powerbi.com/groups/me/repor
       (L) - create & format visual dashboard - Charts Maps, Filter/Flicers,Create New Columns and Tables)
 
 
+
+
 # PROJECT DESCRIPTION & INSIGHTS FROM DASHBOARD TO HELP BUSINESS
 
 • Dashboard Creation: Created, Built, Monitored visually appealing interactive dynamic dashboards & reports added filters to allow user to explore dara at various levels of granularity
+
 • Dashboard KPI's : understand, identify, track KPIs, metrices, key-influencers, Identified key factors to reduce attrition
+
 • Dashboard Manipulation: created connections, joins new tables, calculations to manipulate data, 
+
 • Actionable Insights and Recommendations: Proived valuable & meaningful insights & Analysis for better decision making & insights in clear & concise manner to track and analyze their online sales 
+
 • Increase performance, Export, publish, deploy, Power BI Dashboard
+
 • Presentation & storytelling 
+
+
 
 
 # PROJECT LEARNING
@@ -121,7 +138,9 @@ Demo Published/Deplyed Dashboard Link -> https://app.powerbi.com/groups/me/repor
  
 
 • Contributed to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
+
 • Incorporated data analysis techniques, specializing in time series analysis, to deliver valuable insights, and interactive dashboard creation, driving business success.
+
 • Proived valuable & meaningful insights & Analysis for better decision making & insights in clear & concise manner to track and analyze their online sales 
 
 
