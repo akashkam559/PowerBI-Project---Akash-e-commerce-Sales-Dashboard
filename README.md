@@ -17,6 +17,7 @@ Demo Published/Deplyed Dashboard Link -> https://app.powerbi.com/groups/me/repor
 • Understand, identify, track KPIs, metrices, key-influencers, Identified key factors to reduce attrition
 
 • For 2 years(2019 & 2020)
+
 	Total Amount = 438K,
 	 Total Profit= 37K,  
 	Total Quantity = 5615, 
